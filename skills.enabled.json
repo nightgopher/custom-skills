@@ -1,7 +1,7 @@
 {
   "version": 1,
   "targets": [
-    "~/.agents/skills"
+    "/Users/weijian/.agents/skills"
   ],
   "enabled": [
     "feishu-md-exporter"

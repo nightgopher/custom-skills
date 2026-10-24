@@ -44,7 +44,7 @@ scripts/nightly-maintain.sh
 
 ## 项目注册表
 
-项目信息存储在 `.llm-wiki/wiki/projects.md`。可通过分析会话数据自动更新项目状态。
+项目信息以 `docs/` 下的项目文档为准（见 architecture.md 等）。可通过分析会话数据自动更新项目状态。
 
 ### 已注册项目
 

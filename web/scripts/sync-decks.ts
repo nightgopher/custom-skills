@@ -11,7 +11,7 @@ const SHOWCASE_DIR = path.resolve(__dirname, '../../docs/showcase');
 const OUTPUT_FILE = path.resolve(__dirname, '../src/data/decks-data.json');
 const REGISTRY_OUTPUT_FILE = path.resolve(__dirname, '../../registry/decks.json');
 const PUBLIC_SHOWCASE_DIR = path.resolve(__dirname, '../public/showcase');
-const REPO_BASE = 'https://github.com/hwj123hwj/custom-skills';
+const REPO_BASE = 'https://github.com/nightgopher/custom-skills';
 
 interface DeckData {
   id: string;

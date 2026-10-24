@@ -12,7 +12,7 @@
 | 维度 | 结论 |
 |------|------|
 | **Token 效率** | ✅ 50倍节省（7500 → 150 tokens），收益真实 |
-| **CDN 加速** | ✅ jsdelivr 已就绪（`cdn.jsdelivr.net/gh/hwj123hwj/custom-skills@main/...`），国内可用 |
+| **CDN 加速** | ✅ jsdelivr 已就绪（`cdn.jsdelivr.net/gh/nightgopher/custom-skills@main/...`），国内可用 |
 | **原方案问题** | ❌ 依赖 `npx custom-skills` CLI，要求用户本地安装，飞书通道无法执行 |
 | **修正方案** | ✅ Easy Code 原生 HTTP + 文件写入，零外部依赖 |
 
@@ -79,13 +79,13 @@ custom-skills CLI v1.3.1 已集成 jsdelivr CDN 镜像，国内可用。
 
 ```bash
 # Registry 索引（~30KB）
-https://cdn.jsdelivr.net/gh/hwj123hwj/custom-skills@main/registry/skills.json
+https://cdn.jsdelivr.net/gh/nightgopher/custom-skills@main/registry/skills.json
 
 # 单个技能文件
-https://cdn.jsdelivr.net/gh/hwj123hwj/custom-skills@main/skills/{skill-id}/SKILL.md
+https://cdn.jsdelivr.net/gh/nightgopher/custom-skills@main/skills/{skill-id}/SKILL.md
 
 # 单个技能脚本
-https://cdn.jsdelivr.net/gh/hwj123hwj/custom-skills@main/skills/{skill-id}/scripts/{name}.py
+https://cdn.jsdelivr.net/gh/nightgopher/custom-skills@main/skills/{skill-id}/scripts/{name}.py
 ```
 
 jsdelivr 自动缓存 GitHub 内容，延迟通常 < 500ms（国内），GitHub raw 作为 fallback。
@@ -102,14 +102,14 @@ jsdelivr 自动缓存 GitHub 内容，延迟通常 < 500ms（国内），GitHub 
 ---
 type: skill
 name: custom-skills-hub
-description: "从 custom-skills 仓库（hwj123hwj/custom-skills）搜索并按需安装技能。使用 jsdelivr CDN 加速。"
+description: "从 custom-skills 仓库（nightgopher/custom-skills）搜索并按需安装技能。使用 jsdelivr CDN 加速。"
 ---
 # custom-skills-hub
 
 ## 数据源
 
-- Registry: `https://cdn.jsdelivr.net/gh/hwj123hwj/custom-skills@main/registry/skills.json`
-- Skill 文件: `https://cdn.jsdelivr.net/gh/hwj123hwj/custom-skills@main/skills/{skill-id}/SKILL.md`
+- Registry: `https://cdn.jsdelivr.net/gh/nightgopher/custom-skills@main/registry/skills.json`
+- Skill 文件: `https://cdn.jsdelivr.net/gh/nightgopher/custom-skills@main/skills/{skill-id}/SKILL.md`
 - GitHub raw 作为 fallback
 
 ## 工作流程

@@ -118,7 +118,7 @@ function validateSkill(skill: SkillRegistryItem): void {
     fail(`${skill.id}.sourcePath 应为 ${expectedSourcePath}`);
   }
 
-  const expectedInstallCommand = `npx skills add https://github.com/hwj123hwj/custom-skills --skill ${skill.id}`;
+  const expectedInstallCommand = `npx skills add https://github.com/nightgopher/custom-skills --skill ${skill.id}`;
   if (skill.installCommand !== expectedInstallCommand) {
     fail(`${skill.id}.installCommand 应为 ${expectedInstallCommand}`);
   }

@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hwj123hwj.asia/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="zh" href="https://hwj123hwj.asia/" />
@@ -144,14 +144,6 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="zh" href="https://hwj123hwj.asia/skill/impeccable" />
     <xhtml:link rel="alternate" hreflang="en" href="https://hwj123hwj.asia/skill/impeccable?lng=en" />
-  </url>
-  <url>
-    <loc>https://hwj123hwj.asia/skill/knowledge-skill</loc>
-    <lastmod>2026-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://hwj123hwj.asia/skill/knowledge-skill" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://hwj123hwj.asia/skill/knowledge-skill?lng=en" />
   </url>
   <url>
     <loc>https://hwj123hwj.asia/skill/llm-price-tracker</loc>

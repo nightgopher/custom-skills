@@ -9,7 +9,7 @@ import { searchSkills, findExact } from '../utils/matcher.js';
 import { NormalizedSkill } from '../types/skill.js';
 import { printSkillCard, printJson, printError, printSuccess, printInfo } from '../utils/output.js';
 
-const REPO_URL = 'https://github.com/hwj123hwj/custom-skills.git';
+const REPO_URL = 'https://github.com/nightgopher/custom-skills.git';
 const REPO_DIR = path.join(os.tmpdir(), 'custom-skills-repo');
 
 // ────────────────────────────────────────────────────────────────────────────

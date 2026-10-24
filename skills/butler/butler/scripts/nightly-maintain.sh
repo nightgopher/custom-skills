@@ -79,14 +79,13 @@ echo ""
 echo "## 3. Wiki Maintenance Suggestions"
 echo ""
 
-# Check if any projects need wiki integration
-WIKI_DIR="/Users/weijian/easycode-work/.llm-wiki"
-if [ -d "$WIKI_DIR" ]; then
-  echo "  Wiki exists at: $WIKI_DIR"
-  echo "  Run: /dream (memory consolidation)"
-  echo "  Run: /wiki ingest for new sources"
+# Check if project docs need attention
+DOCS_DIR="$(cd "$(dirname "$0")/../../../.." && pwd)/docs"
+if [ -d "$DOCS_DIR" ]; then
+  echo "  Docs at: $DOCS_DIR"
+  echo "  Consider updating docs/ after consolidating new knowledge"
 else
-  echo "  No wiki found — consider initializing"
+  echo "  No docs/ found — consider initializing"
 fi
 
 echo ""

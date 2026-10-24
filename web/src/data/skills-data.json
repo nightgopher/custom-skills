@@ -13,8 +13,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill archify",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/archify",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill archify",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/archify",
     "sourcePath": "skills/archify",
     "lastUpdated": "2026-08-28T00:00:00.000Z",
     "author": "tt-a1i",
@@ -40,8 +40,8 @@
       "语音转文字",
       "ASR"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill asr",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/asr",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill asr",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/asr",
     "sourcePath": "skills/asr",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -59,8 +59,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill bilibili-cli",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/bilibili-cli",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill bilibili-cli",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/bilibili-cli",
     "sourcePath": "skills/bilibili-cli",
     "lastUpdated": "2026-05-06T08:13:58.000Z",
     "author": "jackwener"
@@ -79,8 +79,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill boss-cli",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/boss-cli",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill boss-cli",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/boss-cli",
     "sourcePath": "skills/boss-cli",
     "lastUpdated": "2026-05-06T08:13:58.000Z",
     "author": "jackwener"
@@ -97,8 +97,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill butler",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/butler",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill butler",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/butler",
     "sourcePath": "skills/butler",
     "lastUpdated": "2026-06-16T07:10:28.000Z"
   },
@@ -120,8 +120,8 @@
       "生成标题",
       "发布文案"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill content-adapt",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/content-adapt",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill content-adapt",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/content-adapt",
     "sourcePath": "skills/content-adapt",
     "lastUpdated": "2026-06-04T12:23:42.000Z"
   },
@@ -148,8 +148,8 @@
       "跨平台发布",
       "content repurpose"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill content-repurposer",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/content-repurposer",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill content-repurposer",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/content-repurposer",
     "sourcePath": "skills/content-repurposer",
     "lastUpdated": "2026-06-05T14:35:44.601Z"
   },
@@ -166,8 +166,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill darwin-skill",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/darwin-skill",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill darwin-skill",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/darwin-skill",
     "sourcePath": "skills/darwin-skill",
     "lastUpdated": "2026-05-30T12:12:15.258Z"
   },
@@ -189,8 +189,8 @@
       "上传视频",
       "发布视频"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill douyin-upload",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/douyin-upload",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill douyin-upload",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/douyin-upload",
     "sourcePath": "skills/douyin-upload",
     "lastUpdated": "2026-06-04T12:23:42.000Z"
   },
@@ -207,8 +207,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill drawio-skill",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/drawio-skill",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill drawio-skill",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/drawio-skill",
     "sourcePath": "skills/drawio-skill",
     "lastUpdated": "2026-05-05T15:45:55.000Z",
     "author": "Agents365-ai",
@@ -228,8 +228,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill emil-design-eng",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/emil-design-eng",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill emil-design-eng",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/emil-design-eng",
     "sourcePath": "skills/emil-design-eng",
     "lastUpdated": "2026-07-04T00:00:00.000Z",
     "author": "emilkowalski",
@@ -260,8 +260,8 @@
       "飞书文件夹导出",
       "Lark 文档导出"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill feishu-md-exporter",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/feishu-md-exporter",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill feishu-md-exporter",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/feishu-md-exporter",
     "sourcePath": "skills/feishu-md-exporter",
     "lastUpdated": "2026-06-11T05:23:43.524Z"
   },
@@ -277,8 +277,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill frontend-design",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/frontend-design",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill frontend-design",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/frontend-design",
     "sourcePath": "skills/frontend-design",
     "lastUpdated": "2026-06-25T15:48:06.930141+08:00"
   },
@@ -305,8 +305,8 @@
       "瑞士风PPT",
       "Swiss Style PPT"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill guizang-ppt-skill",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/guizang-ppt-skill",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill guizang-ppt-skill",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/guizang-ppt-skill",
     "sourcePath": "skills/guizang-ppt-skill",
     "lastUpdated": "2026-05-16T04:00:04.426Z",
     "author": "op7418",
@@ -326,8 +326,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill huashu-nuwa",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/huashu-nuwa",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill huashu-nuwa",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/huashu-nuwa",
     "sourcePath": "skills/huashu-nuwa",
     "lastUpdated": "2026-05-30T12:12:15.464Z"
   },
@@ -349,8 +349,8 @@
       "封面图",
       "generate image"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill image-provider",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/image-provider",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill image-provider",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/image-provider",
     "sourcePath": "skills/image-provider",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -367,44 +367,14 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill impeccable",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/impeccable",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill impeccable",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/impeccable",
     "sourcePath": "skills/impeccable",
     "lastUpdated": "2026-07-04T00:00:00.000Z",
     "author": "pbakaus",
     "upstream": "pbakaus/impeccable",
     "upstreamPath": "skill",
     "upstreamSha": "f2c7051853848826aac2f4646581d62a732155ad"
-  },
-  {
-    "id": "knowledge-skill",
-    "name": "knowledge-skill",
-    "displayName": "Knowledge Skill",
-    "description": "个人知识流水线技能。将网页、B站、微信公众号、小红书、Markdown 等内容先入库到 PostgreSQL 原料池，再编译为 Agent 友好的 Markdown / LLM Wiki 知识网络。 支持 URL 入库、摘要与向量、Markdown 检索、Wiki 编译、飞书知识库发布、记忆层整理和夜间自动收割。",
-    "detailedDescription": "将碎片化信息转化为可检索、可阅读、可沉淀的结构化知识。",
-    "emoji": "📦",
-    "tags": [
-      "Knowledge",
-      "Search",
-      "Automation"
-    ],
-    "scenarios": [
-      "保存网页、视频或文章到 PostgreSQL 原料池",
-      "将原料编译成 Markdown / LLM Wiki 知识网络",
-      "使用 rg/Markdown 文件检索已编译知识",
-      "将本地 Markdown / LLM Wiki 发布到飞书知识库",
-      "夜间自动收割 B 站或小红书内容"
-    ],
-    "aliases": [
-      "知识库",
-      "入库",
-      "搜索知识",
-      "历史知识"
-    ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill knowledge-skill",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/knowledge-skill",
-    "sourcePath": "skills/knowledge-skill",
-    "lastUpdated": "2026-04-23T04:16:51.000Z"
   },
   {
     "id": "llm-price-tracker",
@@ -427,8 +397,8 @@
       "新模型价格",
       "供应商对比"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill llm-price-tracker",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/llm-price-tracker",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill llm-price-tracker",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/llm-price-tracker",
     "sourcePath": "skills/llm-price-tracker",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -454,8 +424,8 @@
       "MEMORY 管理",
       "长期记忆"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill memory-organizer",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/memory-organizer",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill memory-organizer",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/memory-organizer",
     "sourcePath": "skills/memory-organizer",
     "lastUpdated": "2026-04-15T02:36:07.000Z"
   },
@@ -478,8 +448,8 @@
       "公众号排版",
       "推送草稿箱"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill mp-weixin-ops",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/mp-weixin-ops",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill mp-weixin-ops",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/mp-weixin-ops",
     "sourcePath": "skills/mp-weixin-ops",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -497,8 +467,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill officecli-docx",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/officecli-docx",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill officecli-docx",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/officecli-docx",
     "sourcePath": "skills/officecli-docx",
     "lastUpdated": "2026-05-06T08:34:08.000Z",
     "author": "iOfficeAI",
@@ -519,8 +489,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill open-kimi-ppt",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/open-kimi-ppt",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill open-kimi-ppt",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/open-kimi-ppt",
     "sourcePath": "skills/open-kimi-ppt",
     "lastUpdated": "2026-08-08T13:21:31.000Z"
   },
@@ -537,8 +507,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill paddleocr-doc-parsing",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/paddleocr-doc-parsing",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill paddleocr-doc-parsing",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/paddleocr-doc-parsing",
     "sourcePath": "skills/paddleocr-doc-parsing",
     "lastUpdated": "2026-05-09T00:00:00.000Z"
   },
@@ -555,8 +525,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill paddleocr-text-recognition",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/paddleocr-text-recognition",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill paddleocr-text-recognition",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/paddleocr-text-recognition",
     "sourcePath": "skills/paddleocr-text-recognition",
     "lastUpdated": "2026-05-09T00:00:00.000Z"
   },
@@ -574,8 +544,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill react-native-best-practices",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/react-native-best-practices",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill react-native-best-practices",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/react-native-best-practices",
     "sourcePath": "skills/react-native-best-practices",
     "lastUpdated": "2026-07-01T06:39:56.000Z",
     "author": "Callstack",
@@ -602,8 +572,8 @@
       "短剧制作",
       "生成视频"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill short-drama-pipeline",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/short-drama-pipeline",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill short-drama-pipeline",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/short-drama-pipeline",
     "sourcePath": "skills/short-drama-pipeline",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -626,8 +596,8 @@
       "口播脚本",
       "文案二创"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill short-video-replicator",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/short-video-replicator",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill short-video-replicator",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/short-video-replicator",
     "sourcePath": "skills/short-video-replicator",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -645,8 +615,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill stock-analysis",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/stock-analysis",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill stock-analysis",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/stock-analysis",
     "sourcePath": "skills/stock-analysis",
     "lastUpdated": "2026-06-05T14:32:34.833Z"
   },
@@ -675,8 +645,8 @@
       "storage analysis",
       "disk cleanup"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill storage-analyzer",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/storage-analyzer",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill storage-analyzer",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/storage-analyzer",
     "sourcePath": "skills/storage-analyzer",
     "lastUpdated": "2026-06-02T13:00:00.000Z",
     "author": "KKKHazix",
@@ -697,8 +667,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill taste-skill",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/taste-skill",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill taste-skill",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/taste-skill",
     "sourcePath": "skills/taste-skill",
     "lastUpdated": "2026-07-04T00:00:00.000Z",
     "author": "Leonxlnx",
@@ -725,8 +695,8 @@
       "提取URL内容",
       "深度调研"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill tavily",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/tavily",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill tavily",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/tavily",
     "sourcePath": "skills/tavily",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -748,8 +718,8 @@
       "TTS",
       "合成语音"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill tts",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/tts",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill tts",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/tts",
     "sourcePath": "skills/tts",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -771,8 +741,8 @@
       "理解视频",
       "视频总结"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill vertex-video-reader",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/vertex-video-reader",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill vertex-video-reader",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/vertex-video-reader",
     "sourcePath": "skills/vertex-video-reader",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -794,8 +764,8 @@
       "分析视频",
       "抽帧"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill video-analyze",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/video-analyze",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill video-analyze",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/video-analyze",
     "sourcePath": "skills/video-analyze",
     "lastUpdated": "2026-06-04T12:23:42.000Z"
   },
@@ -818,8 +788,8 @@
       "生成字幕",
       "视频剪辑"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill videocut",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/videocut",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill videocut",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/videocut",
     "sourcePath": "skills/videocut",
     "lastUpdated": "2026-05-02T15:49:31.000Z"
   },
@@ -845,8 +815,8 @@
       "热搜",
       "微博评论"
     ],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill weibo-skill",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/weibo-skill",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill weibo-skill",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/weibo-skill",
     "sourcePath": "skills/weibo-skill",
     "lastUpdated": "2026-05-02T08:29:23.000Z"
   },
@@ -864,8 +834,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill weread-skills",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/weread-skills",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill weread-skills",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/weread-skills",
     "sourcePath": "skills/weread-skills",
     "lastUpdated": "2026-06-05T14:32:34.846Z"
   },
@@ -883,8 +853,8 @@
     ],
     "scenarios": [],
     "aliases": [],
-    "installCommand": "npx skills add https://github.com/hwj123hwj/custom-skills --skill xiaohongshu-cli",
-    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/skills/xiaohongshu-cli",
+    "installCommand": "npx skills add https://github.com/nightgopher/custom-skills --skill xiaohongshu-cli",
+    "githubUrl": "https://github.com/nightgopher/custom-skills/tree/main/skills/xiaohongshu-cli",
     "sourcePath": "skills/xiaohongshu-cli",
     "lastUpdated": "2026-05-06T08:13:58.000Z",
     "author": "jackwener"

@@ -2,7 +2,7 @@
 
 > 一个以 `SKILL.md` 为唯一事实来源的 AI 技能注册表，同时服务人类用户（Web 技能广场）和 AI Agent（CLI 安装工具）。
 
-[![CI](https://github.com/hwj123hwj/custom-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/hwj123hwj/custom-skills/actions/workflows/ci.yml)
+[![CI](https://github.com/nightgopher/custom-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/nightgopher/custom-skills/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -47,7 +47,7 @@ npx custom-skills install <skill-id>
 npx custom-skills install <skill-id> --global
 
 # 或使用标准 skills CLI
-npx skills add https://github.com/hwj123hwj/custom-skills --skill <skill-id>
+npx skills add https://github.com/nightgopher/custom-skills --skill <skill-id>
 ```
 
 ---
@@ -165,7 +165,6 @@ CI 会在每天 UTC 02:00 自动检查上游更新，如有变更会创建 PR。
 | [huashu-nuwa](./skills/huashu-nuwa) | 女娲造人：输入人名/主题/甚至只是模糊需求，自动深度调研→思维框架提炼→生成可运行的人物Skill。 |
 | [image-provider](./skills/image-provider) | Unified image generation skill with pluggable providers (strategy pattern). |
 | [impeccable](./skills/impeccable) | Designs and iterates production-grade frontend interfaces. |
-| [knowledge-skill](./skills/knowledge-skill) | 个人知识流水线技能。 |
 | [llm-price-tracker](./skills/llm-price-tracker) | Track and compare LLM API pricing across 147+ providers. |
 | [memory-organizer](./skills/memory-organizer) | 长期记忆整理指南。 |
 | [mp-weixin-ops](./skills/mp-weixin-ops) | 微信公众号一站式运营 Skill。 |
@@ -267,8 +266,8 @@ MIT License - 详见 [LICENSE](./LICENSE)
 ## 🔗 相关链接
 
 - [Web 技能广场](https://hwj123hwj.asia/)
-- [GitHub 仓库](https://github.com/hwj123hwj/custom-skills)
-- [问题反馈](https://github.com/hwj123hwj/custom-skills/issues)
+- [GitHub 仓库](https://github.com/nightgopher/custom-skills)
+- [问题反馈](https://github.com/nightgopher/custom-skills/issues)
 
 ---
 

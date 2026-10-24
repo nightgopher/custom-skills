@@ -14,7 +14,7 @@ const SKILLS_DIR_CANDIDATES = [
 const SKILLS_DIR = SKILLS_DIR_CANDIDATES.find((dir) => fs.existsSync(dir)) ?? SKILLS_DIR_CANDIDATES[0];
 const REGISTRY_OUTPUT_FILE = path.resolve(__dirname, '../../registry/skills.json');
 const WEB_OUTPUT_FILE = path.resolve(__dirname, '../src/data/skills-data.json');
-const REPO_BASE = 'https://github.com/hwj123hwj/custom-skills';
+const REPO_BASE = 'https://github.com/nightgopher/custom-skills';
 
 interface SkillData {
   id: string;
@@ -319,7 +319,7 @@ async function main() {
           tags: tags.length > 0 ? tags.slice(0, 3) : ['Utility'],
           scenarios,
           aliases,
-          installCommand: `npx skills add https://github.com/hwj123hwj/custom-skills --skill ${id}`,
+          installCommand: `npx skills add https://github.com/nightgopher/custom-skills --skill ${id}`,
           githubUrl: `${REPO_BASE}/tree/main/${sourcePath}`,
           sourcePath,
           lastUpdated,

@@ -6,16 +6,16 @@ import { readCache, readCacheEtag, hasCache, writeCache } from './cache.js';
 import { SkillEmbedding, EmbeddingsFile } from './vector-search.js';
 
 const SKILLS_DATA_URL =
-  'https://raw.githubusercontent.com/hwj123hwj/custom-skills/main/registry/skills.json';
+  'https://raw.githubusercontent.com/nightgopher/custom-skills/main/registry/skills.json';
 const SKILLS_DATA_MIRROR_URL =
-  'https://cdn.jsdelivr.net/gh/hwj123hwj/custom-skills@main/registry/skills.json';
+  'https://cdn.jsdelivr.net/gh/nightgopher/custom-skills@main/registry/skills.json';
 
 const EMBEDDINGS_URL =
-  'https://raw.githubusercontent.com/hwj123hwj/custom-skills/main/registry/skills-embeddings.json';
+  'https://raw.githubusercontent.com/nightgopher/custom-skills/main/registry/skills-embeddings.json';
 const EMBEDDINGS_MIRROR_URL =
-  'https://cdn.jsdelivr.net/gh/hwj123hwj/custom-skills@main/registry/skills-embeddings.json';
+  'https://cdn.jsdelivr.net/gh/nightgopher/custom-skills@main/registry/skills-embeddings.json';
 
-const REPO_BASE = 'https://github.com/hwj123hwj/custom-skills/tree/main';
+const REPO_BASE = 'https://github.com/nightgopher/custom-skills/tree/main';
 const LOCAL_REGISTRY_PATH = path.resolve(__dirname, '../../../registry/skills.json');
 const LOCAL_EMBEDDINGS_PATH = path.resolve(__dirname, '../../../registry/skills-embeddings.json');
 

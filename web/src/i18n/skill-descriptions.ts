@@ -47,8 +47,6 @@ export const skillDescriptionsZh: Record<string, string> = {
     'Twitter/X 一站式 CLI 工具。支持读取时间线、书签、搜索结果、用户主页、推文详情，以及发帖、回复、引用、点赞、转推、关注等操作。凡涉及 Twitter/X 的交互，均通过此技能完成。',
 
   // ── 原本中文 description 的技能（无需额外翻译，但保留中文映射供显示） ──
-  'knowledge-skill':
-    '个人知识库技能。支持将网页、B站、微信公众号、小红书等内容入库到 PostgreSQL，并通过关键词或语义检索找回历史知识。自动生成 AI 摘要与向量嵌入，同时支持 URL 一键入库和夜间自动收割。',
   'memory-organizer':
     '长期记忆整理指南。使用当需要清理、组织或重构 MEMORY.md 文件时，或决策哪些信息应该/不应该存储在长期记忆中。提供区分静态知识（长期价值）vs 动态信息（可自动获取）的原则。',
   'mp-weixin-ops':
@@ -177,8 +175,6 @@ export const skillDescriptionsZh: Record<string, string> = {
 export const skillDescriptionsEn: Record<string, string> = {
   'guizang-ppt-skill':
     'Design-focused skill for building horizontal swipe web PPTs as a single HTML file. Includes both editorial magazine and Swiss-style visual systems, suitable for talks, launch decks, analytical presentations, supporting images, covers, and screenshot redesign.',
-  'knowledge-skill':
-    'Personal knowledge base skill. Ingest web pages, Bilibili, WeChat articles, Xiaohongshu posts and more into PostgreSQL; retrieve them via keyword or semantic search. Auto-generates AI summaries and vector embeddings; supports one-click URL ingestion and nightly harvesting.',
   'memory-organizer':
     'Long-term memory organization guide. Use when you need to clean up, organize, or restructure a MEMORY.md file, or decide what information should or should not be stored in long-term memory.',
   'mp-weixin-ops':
